@@ -1,12 +1,66 @@
-# React + Vite
+# 🎯 React To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal to-do list application built with React and Vite. Users can add tasks, mark them as completed, delete tasks, and all data is saved automatically using localStorage.
 
-Currently, two official plugins are available:
+[🌐 Live Demo](https://netflix-clone-fhwh.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![React To-Do List Screenshot](screenshot.JPG)
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💾 Automatic persistence with localStorage
+- 🎨 Clean and responsive UI
+- ⚡ Powered by React 19 + Vite
+
+---
+
+## 🛠️ Tech Stack
+
+- React 19
+- Vite
+- JavaScript (ESM)
+- CSS
+- LocalStorage
+
+---
+
+## 💻 Running the Project Locally
+
+### 1. Clone the repository
+
+git clone git@github.com:zandernh/react_to-do.git
+
+cd react-to-do-list
+
+### 2. Install dependencies
+
+npm install
+
+### Start the development server
+
+npm run dev
+
+### 3. Access the app at:
+
+http://localhost:5173/
+
+---
+
+## 📜 License
+
+This project is free to use and open-source.
+
+---
+
+## 🙋‍♂️ Author
+
+Developed by Zander Harding.
