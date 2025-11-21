@@ -2,13 +2,13 @@
 
 A clean and minimal to-do list application built with React and Vite. Users can add tasks, mark them as completed, delete tasks, and all data is saved automatically using localStorage.
 
-[🌐 Live Demo](https://netflix-clone-fhwh.onrender.com/)
+[🌐 Live Demo](reacttodolistmini.netlify.app)
 
 ---
 
 ## 📸 Screenshot
 
-![React To-Do List Screenshot](screenshot.JPG)
+![React To-Do List Screenshot](react_todo_screenshot.JPG)
 
 ---
 
